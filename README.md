@@ -1,5 +1,5 @@
 # RiceNet
-Source Code of Our RiceNet:
+Source code for Our RiceNet:
 
 
 1. Our code is based on PyTorch deep learning framework. Please install and configure PyTorch operating environment on your computer.
