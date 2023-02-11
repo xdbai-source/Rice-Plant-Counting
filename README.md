@@ -7,6 +7,7 @@ Source Code of Our RiceNet:
 2. Download all the codes to your local computer.
 
 3. Download URC test dataset by the link: https://pan.baidu.com/s/1jCWfHd8MU8vVBrXAnoQzzQ?pwd=7386 code: 7386 
+   
    Download checkpoint by the link: https://pan.baidu.com/s/1y2GK15TDqLsUXVHBNSEAkA?pwd=d486 code: d486 
    
 4. Unrar the above two files to the codes folder.
